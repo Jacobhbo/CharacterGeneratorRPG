@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\bin\Debug\net6.0\GeneratorRPG.exe
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\bin\Debug\net6.0\GeneratorRPG.deps.json
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\bin\Debug\net6.0\GeneratorRPG.runtimeconfig.json
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\bin\Debug\net6.0\GeneratorRPG.dll
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\bin\Debug\net6.0\GeneratorRPG.pdb
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.AssemblyInfo.cs
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.dll
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\refint\GeneratorRPG.dll
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.pdb
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\GeneratorRPG.genruntimeconfig.cache
+C:\Users\jacob\source\repos\GeneratorRPG\GeneratorRPG\obj\Debug\net6.0\ref\GeneratorRPG.dll
